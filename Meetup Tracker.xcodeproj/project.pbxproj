@@ -21,6 +21,7 @@
 		CE6347D1221547F9004B8CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CE6347D3221547F9004B8CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE6347D4221547F9004B8CAD /* Meetup_Tracker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Meetup_Tracker.entitlements; sourceTree = "<group>"; };
+		CEA66534224CB73B008EA8BF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		CE6347BE221547F7004B8CAD = {
 			isa = PBXGroup;
 			children = (
+				CEA66534224CB73B008EA8BF /* README.md */,
 				CE6347C9221547F7004B8CAD /* Meetup Tracker */,
 				CE6347C8221547F7004B8CAD /* Products */,
 			);
